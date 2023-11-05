@@ -132,7 +132,21 @@ Mrs. Chaithanya Raj serves as the Nodal Officer of the IEDC (Innovation and Entr
 Sreeraj V Rajesh also holds the position of Student Lead at the IEDC cell and is a student of the ECE (Electronics and Communication Engineering) department, making him an invaluable asset to the Unilod project.
 
 ---
+## ATtiny85 Microcontroller
 
+The heart of Unilod is the ATtiny85 microcontroller, a powerful yet compact chip that drives its capabilities. Here's a brief overview of the ATtiny85:
+
+- **Microcontroller Model**: ATtiny85
+- **Flash Memory**: 8 KB
+- **SRAM**: 512 bytes
+- **EEPROM**: 512 bytes
+- **I/O Pins**: 6
+- **Clock Source**: Internal oscillator (8 or 16 MHz)
+- **Power Supply**: 5V (VCC) and Ground (GND)
+
+You can explore the complete technical details and specifications in the [ATtiny85 Datasheet](https://ww1.microchip.com/downloads/en/devicedoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf), which provides in-depth information about its features and usage.
+
+---
 ## Contributions
 
 Your contributions are invaluable in enhancing Unilod's capabilities. Whether you have bug fixes, feature ideas, or improvements, please feel free to submit pull requests or open issues on the [Unilod GitHub Repository](link_to_github_repo).
