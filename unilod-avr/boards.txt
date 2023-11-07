@@ -1,0 +1,23 @@
+# See: http://code.google.com/p/arduino/wiki/Platforms
+
+menu.cpu=Processor
+
+##############################################################
+
+
+
+
+unilod-tiny.name=UNILOD (Default - 16.5mhz)
+unilod-tiny.upload.using=micronucleusprog
+unilod-tiny.upload.protocol=usb
+unilod-tiny.upload.tool=micronucleus
+unilod-tiny.upload.maximum_size=6012
+unilod-tiny.build.mcu=attiny85
+unilod-tiny.build.f_cpu=16500000L
+unilod-tiny.build.board=AVR_unilod
+unilod-tiny.build.core=tiny
+unilod-tiny.build.variant=unilod
+unilod-tiny.upload.wait_for_upload_port = false
+unilod-tiny.upload.use_1200bps_touch = false
+unilod-tiny.upload.disable_flushing = false
+
