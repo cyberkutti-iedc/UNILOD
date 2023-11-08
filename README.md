@@ -34,7 +34,7 @@ Unilod Tiny6C8D is the first family member of the Unilod project. It is designed
 
 **Main Features**:
 
-- Compact design with a form factor of only 40mm².
+- Compact design with a form factor of only 35mm x 35mm.
 - Powered by the ATtiny85 microcontroller, offering 8 KB of flash memory, 512 bytes of SRAM, and 512 bytes of EEPROM for non-volatile data storage.
 - Equipped with 6 I/O pins, including digital pins, PWM, and analog inputs.
 - Internal oscillator with options for 8 or 16 MHz clock sources.
