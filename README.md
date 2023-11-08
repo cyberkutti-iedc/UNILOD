@@ -55,7 +55,7 @@ Unilod Tiny6C8D is the first family member of the Unilod project. It is designed
 - Powered by the ATtiny85 microcontroller, offering 8 KB of flash memory, 512 bytes of SRAM, and 512 bytes of EEPROM for non-volatile data storage.
 - Equipped with 6 I/O pins, including digital pins, PWM, and analog inputs.
 - Internal oscillator with options for 8 or 16 MHz clock sources.
-- USB programming support for easy development using the Arduino IDE.
+- Male header pins for programming and connectivity, offering a flexible and customizable approach to your project's wiring and connection needs.
 - Open-source project, welcoming community contributions.
 
 **Technical Specifications**:
@@ -67,7 +67,9 @@ Unilod Tiny6C8D is the first family member of the Unilod project. It is designed
 - I/O Pins: 6
 - Clock Source: Internal oscillator (8 or 16 MHz)
 - Power Supply: 5V (VCC) and Ground (GND)
-- Programming: Micro USB cable, Arduino IDE compatible
+- Programming: Male header pins, Arduino IDE compatible
+
+**Board Size**: 35mm x 35mm
 
 **Compatibility**:
 
@@ -90,7 +92,7 @@ Unilod Tiny6C8D is fully compatible with the Arduino IDE, making it easy for dev
    - Navigate to `Tools > Board > Boards Manager`, search for "Unilod Tiny6C8D," and install the Unilod Tiny6C8D board package.
    
 4. **Connect and Program**:
-   - Connect your Unilod Tiny6C8D board to your computer using a micro USB cable.
+   - Connect your Unilod Tiny6C8D board to your computer using the male header pins.
    - Select "Unilod Tiny6C8D" as the target board in the Arduino IDE.
    - Now, you're all set to create and upload programs to your Unilod Tiny6C8D board, similar to working with Arduino.
 
@@ -157,12 +159,9 @@ Your contributions are invaluable in enhancing Unilod's capabilities. Whether yo
 
 This project is licensed under the [Creative Commons Attribution-ShareAlike (CC-BY-SA) License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-
-
 ---
 
 <p align="center">
   We invite you to explore Unilod further on our <a href="#">website</a> or reach out to us at <a href="mailto:ecoceeteam@gmail.com">ecoceeteam@gmail.com</a>.
   <a>and developing and support by ECOCEE MSME company.</a>
 </p>
-
