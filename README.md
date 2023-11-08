@@ -88,7 +88,7 @@ Unilod Tiny6C8D is fully compatible with the Arduino IDE, making it easy for dev
 3. **Arduino IDE Integration**:
    - Open the Arduino IDE.
    - Go to `File > Preferences` and add the Unilod board manager URL to "Additional Boards Manager URLs":
-     - [Unilod Board Manager URL](https://bit.ly/unilod)
+     - [Unilod Board Manager URL](https://bit.ly/unilod) 'https://bit.ly/unilod'
    - Navigate to `Tools > Board > Boards Manager`, search for "Unilod Tiny6C8D," and install the Unilod Tiny6C8D board package.
    
 4. **Connect and Program**:
