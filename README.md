@@ -1,31 +1,14 @@
-<h1 align="center">Unilod - Unified Logic Development Board</h1>
+<h1 align="center"><b>Unilod - Unified Logic Development Board</b></h1>
 
 <p align="center">
   <b>Unleash the Power of Tiny with Unilod - A Versatile ATtiny85 Development Board</b>
-</p>
-<p align="center">
-  <a href="link_to_documentation">
-    <img src="https://i.pinimg.com/originals/8b/6f/09/8b6f09ad8c27b4a987e4da02d1b6e6f7.gif" alt="Documentation" width="150" style="height: 150px; border-radius: 50%;">
-  </a> 
-  | 
-  <a href="link_to_examples">
-    <img src="https://i.pinimg.com/originals/60/69/06/6069060ed00f7ecc749c32a5dd84b188.gif" alt="Examples" width="150" style="height: 150px; border-radius: 50%;">
-  </a>
-  | 
-  <a href="link_to_github_repo">
-    <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="GitHub" width="150" style="height: 150px; border-radius: 50%;">
-  </a>
-  | 
-  <a href="link_to_datasheet_pdf" download>
-    <img src="https://i.pinimg.com/originals/82/d7/40/82d74014ea1cad85ca870c92f0e539fd.gif" alt="Download Datasheet (PDF)" width="150" style="height: 150px; border-radius: 50%;">
-  </a>
 </p>
 
 ---
 
 ## Introduction
 
-Unilod is a compact, versatile development board powered by the ATtiny85 microcontroller. With a minuscule form factor of just 40mm², it packs a punch with 6 I/O pins, 2 VCC (+5V), and 1 GND. Unilod is your go-to solution for simple IoT projects, ethical hacking, sensors, PWM projects, and IR projects, designed to empower students, hobbyists, and developers.
+Unilod is a compact, versatile development board powered by the ATtiny85 microcontroller. With a minuscule form factor of just 35mm x 35mm, it packs a punch with 6 I/O pins, 2 VCC (+5V), and 1 GND. Unilod is your go-to solution for simple IoT projects, ethical hacking, sensors, PWM projects, and IR projects, designed to empower students, hobbyists, and developers.
 
 ---
 
@@ -134,6 +117,7 @@ Mrs. Chaithanya Raj serves as the Nodal Officer of the IEDC (Innovation and Entr
 Sreeraj V Rajesh also holds the position of Student Lead at the IEDC cell and is a student of the ECE (Electronics and Communication Engineering) department, making him an invaluable asset to the Unilod project.
 
 ---
+
 ## ATtiny85 Microcontroller
 
 The heart of Unilod is the ATtiny85 microcontroller, a powerful yet compact chip that drives its capabilities. Here's a brief overview of the ATtiny85:
@@ -149,6 +133,7 @@ The heart of Unilod is the ATtiny85 microcontroller, a powerful yet compact chip
 You can explore the complete technical details and specifications in the [ATtiny85 Datasheet](https://ww1.microchip.com/downloads/en/devicedoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf), which provides in-depth information about its features and usage.
 
 ---
+
 ## Contributions
 
 Your contributions are invaluable in enhancing Unilod's capabilities. Whether you have bug fixes, feature ideas, or improvements, please feel free to submit pull requests or open issues on the [Unilod GitHub Repository](link_to_github_repo).
@@ -162,6 +147,5 @@ This project is licensed under the [Creative Commons Attribution-ShareAlike (CC-
 ---
 
 <p align="center">
-  We invite you to explore Unilod further on our <a href="#">website</a> or reach out to us at <a href="mailto:ecoceeteam@gmail.com">ecoceeteam@gmail.com</a>.
-  <a>and developing and support by ECOCEE MSME company.</a>
+  We invite you to explore Unilod further on our [website](#) or reach out to us at [ecoceeteam@gmail.com](mailto:ecoceeteam@gmail.com).
 </p>
